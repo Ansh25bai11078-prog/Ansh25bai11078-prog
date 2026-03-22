@@ -1,6 +1,6 @@
 # Hi, I'm Ansh Tomar 👋
 
-- 🎓 B.Tech CSE (AI & ML) Student at VIT Bhopal University
+- 🎓 B.Tech CSE (AI & ML) Student at VIT  University
 - 🤖 Passionate about Artificial Intelligence and Data Science
 
 
