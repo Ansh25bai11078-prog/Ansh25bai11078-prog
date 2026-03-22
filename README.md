@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Ansh Tomar 👋
+🎓 B.Tech CSE (AI & ML) Student at VIT Bhopal University
+🤖 Passionate about Artificial Intelligence and Data Science
 
-<!--
-**Ansh25bai11078-prog/Ansh25bai11078-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Goals
+Master Machine Learning algorithms and Neural Networks
+Build AI-driven solutions for real-world problems
+Collaborate on open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently Learning
+Deep Learning with Python
+Data Structures & Algorithms
+Cloud Computing Foundations
+
+
+📫 Connect with me
+LinkedIn: www.linkedin.com/in/ansh-tomar-620496375
+GitHub: https://github.com/Ansh25bai11078-prog
